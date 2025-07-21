@@ -1,4 +1,4 @@
-# An Exhaustive Machine Learning Curriculum
+# Machine Learning Curriculum
 
 This curriculum is designed to be a comprehensive roadmap for learning Machine Learning, from foundational knowledge to advanced specialization and deployment. It is structured for progressive learning.
 
